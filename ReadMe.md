@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 💻 I am currently learning<br>🧑‍🎓 MERN Stack<br>🛰️ PHP Full Stack<br>🧑‍💻Self learner and fast learner<br>⌚ Time Management
 
@@ -32,3 +33,4 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  </div>
