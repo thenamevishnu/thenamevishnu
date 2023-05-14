@@ -1,8 +1,5 @@
 <div align="center">
 <h2># 💫 About Me:</h2>
-  now <- Sys.time()
-#class(now)
-print(now)
 💻 I am currently learning<br>🧑‍🎓 MERN Stack<br>🛰️ PHP Full Stack<br>🧑‍💻Self learner and fast learner<br>⌚ Time Management
 
 
