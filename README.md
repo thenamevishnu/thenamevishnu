@@ -4,7 +4,7 @@
 
 </div>
   
-<h2># 💫 About Me:</h2>
+# 💫 About Me:
 <b><i>💻 I am currently learning<br>🧑‍🎓 MERN Stack<br>🛰️ PHP Full Stack<br>🧑‍💻 Self learner and fast learner<br>⌚ Time Management</i></b>
   
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 
 </div>
   
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align='center'>
 
