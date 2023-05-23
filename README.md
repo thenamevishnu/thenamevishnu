@@ -1,4 +1,6 @@
-<div align="center">
+![Image](https://www.seoclerk.com/pics/002/121/860/680412f79b2f46f105ff7c71a72ade43.png)
+
+
 <h2># 💫 About Me:</h2>
 💻 I am currently learning<br>🧑‍🎓 MERN Stack<br>🛰️ PHP Full Stack<br>🧑‍💻Self learner and fast learner<br>⌚ Time Management
   
@@ -33,4 +35,3 @@
   [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=thenamevishnu&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/thenamevishnu)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  </div>
