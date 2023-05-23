@@ -30,8 +30,7 @@
 ![Gif](https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg)
   
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thenamevishnu) 
-
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=thenamevishnu&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/thenamevishnu)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   </div>
