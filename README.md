@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img width="100%" src="https://careers.insightconsultants.co/wp-content/uploads/2020/09/1_sV60JhlYL4IdWjcNvKTJRA.png" alt="my banner">
+<img width="100%" src="https://i.ibb.co/HzThr6D/github-header-image.png" alt="my banner">
 💻 MERN Stack<br>🧑‍💻 Self and Quick learner<br>⌚ Time Management
 
 
