@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img width="100%" src="https://i.ibb.co/HzThr6D/github-header-image.png" alt="my banner">
+<img width="100%" src="./header.png" alt="my banner">
 
 💻 MERN Stack<br>🧑‍💻 Self and Quick learner<br>⌚ Time Management
 
