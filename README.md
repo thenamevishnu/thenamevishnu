@@ -1,18 +1,17 @@
 # 💫 About Me:
 <img width="100%" src="./profile-header.png" alt="my banner">
 
-Hi there! 👋 I'm Vishnu 
-##🚀 Full-Stack Developer | MERN Stack Mentor 
-💡 Passionate about building scalable web applications and sharing knowledge with aspiring developers.  
-🔹 Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js) 
-🔹 Experience: Mentoring developers, working on real-world applications, and contributing to open-source projects 
-🔹 Interests: Real-time applications, Frontend development, API development, and problem-solving 
+Hi there! 👋 I'm Vishnu <br>
+## 🚀 Full-Stack Developer | MERN Stack Mentor <br>
+💡 Passionate about building scalable web applications and sharing knowledge with aspiring developers.  <br>
+🔹 Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js) <br>
+🔹 Experience: Mentoring developers, working on real-world applications, and contributing to open-source projects <br>
+🔹 Interests: Real-time applications, Frontend development, API development, and problem-solving <br>
 
-##💬 Let's Connect! 
-🌱 Always learning and exploring new technologies 
-🔧 Open to collaborations and interesting projects 
-📫 Reach out via issues, discussions, or my socials
-
+## 💬 Let's Connect! 
+🌱 Always learning and exploring new t<br>echnologies <br>
+🔧 Open to collaborations and interesting projects <br>
+📫 Reach out via issues, discussions, or my socials<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenamevishnu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thenamevishnu) 
