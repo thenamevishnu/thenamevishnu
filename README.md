@@ -6,7 +6,7 @@
 🔹 Interests: Real-time applications, Frontend development, API development, and problem-solving <br>
 
 ## 💬 Let's Connect! 
-🌱 Always learning and exploring new t<br>echnologies <br>
+🌱 Always learning and exploring new technologies <br>
 🔧 Open to collaborations and interesting projects <br>
 📫 Reach out via issues, discussions, or my socials<br>
 
