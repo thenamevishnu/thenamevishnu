@@ -1,7 +1,17 @@
 # 💫 About Me:
 <img width="100%" src="./profile-header.png" alt="my banner">
 
-💻 MERN Stack<br>🧑‍💻 Self and Quick learner<br>⌚ Time Management
+Hi there! 👋 I'm Vishnu 
+##🚀 Full-Stack Developer | MERN Stack Mentor 
+💡 Passionate about building scalable web applications and sharing knowledge with aspiring developers.  
+🔹 Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js) 
+🔹 Experience: Mentoring developers, working on real-world applications, and contributing to open-source projects 
+🔹 Interests: Real-time applications, Frontend development, API development, and problem-solving 
+
+##💬 Let's Connect! 
+🌱 Always learning and exploring new technologies 
+🔧 Open to collaborations and interesting projects 
+📫 Reach out via issues, discussions, or my socials
 
 
 ## 🌐 Socials:
