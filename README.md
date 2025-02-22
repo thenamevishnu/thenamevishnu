@@ -1,6 +1,3 @@
-# 💫 About Me:
-<img width="100%" src="./profile-header.png" alt="my banner">
-
 ## Hi there! 👋 I'm Vishnu <br>
 ## 🚀 Full-Stack Developer | MERN Stack Mentor <br>
 💡 Passionate about building scalable web applications and sharing knowledge with aspiring developers.  <br>
