@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Vishnu <br>
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&width=440&lines=Engineer.+Mentor.+Creator.+💼;Leveling+Up+the+Dev+Community+🎮;Built+With+MERN,+Backed+by+Passion+❤️" /><br>
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&width=440&lines=Engineer.+Mentor.+Creator.+💼;Leveling+Up+the+Dev+Community+🎮;Built+With+MERN,+Backed+by+Passion  +❤️" /><br>
 ## 🚀 Full-Stack Developer | MERN Stack Mentor <br>
 💡 Passionate about building scalable web applications and sharing knowledge with aspiring developers.  <br>
 🔹 Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js) <br>
